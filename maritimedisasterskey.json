@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "maritime-disasters",
+  "private_key_id": "dfab0f43f4ad2b54f6caf835d5459fac315adc2c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCXPJupGc9k9KI9\nYlRbp1AEzSBCEJ5qlVV/yeuZZHbLRRgsVH8N/+KRZSjJSbVWZb+em1Q9Em7HgyDe\nGaldH7VnezKYGvU3myfvEuDnBCqAeHGzpQpnlTvj/MpzvFhcFagy4ncqN1GLJUZg\nSTm/OeQwQanfBDBiGYL9zdlJmLSkVOPpzsRif/mniM1cxHqOYb23KPc7kOVut4aA\nbwzxMnm4J4LtQTNFkuqGUtlmICgwYn3MZCOr3qoJU9reaUr44tREUQCxwIQHBGfQ\n6CGtENpos2S2Z7x5ai6Zj+qAZnUYoyJjp7xJBNEFW/AUTIW+F2WEYC+v0xi59PCK\nNRZ0uQuXAgMBAAECggEACqAm/ZwDHsAzT+XDMIdST2wMCqg5QRrJ3YcVxvqwf/qU\nRrUPEjA6vmVhlrbXh0Dx1BZstje/0cOsQP6DkDfkmmck+FvYg7YieaEVbRW1WL5d\nmrYLQ5jQEuYVYUlH2fxpi12u6qflUkXlqmkqpf1Ow3cxlKoqLhJFykg2rn2Mn4j9\nrgfeiouK3QQjD/HQ+cI82pFyHo9Nx7ZbNqZKWDii3gSYtTkiPYYD0APX/ni6abm3\ntUs7cuQpdSiWxdx8wSEOgMN5XV+02h3Ql6l6I9zqGtZbuzuvNvYO/JMKctQQ589F\ns3lTQTggJZRAY/JzHDBdKP5cVKBeRhlZ0BQr9Gta3QKBgQDF9Si20xDMm5hQhdng\n0nSpw7RArmr4CYeNmL+fBFcKtU3j4A8LqfbpVWB7RkIEQCGLMEfg7wOQgM4+Pefn\nwdA9cGcypZMcBYfetfhn86MjLiCyZWnlK+Wra8NJJhHpm6gF6PS8wj/XUX5LMMhh\nCeqsgS6uQJWvL1SFgSgR9OJG/QKBgQDDlIuOfw5bhevB6kyKW2yc7UuzBUV864gn\njR3DdjZqHCYquSQQDa6OPbm9ptjIF/F5bw08XWqFysq5QznFbBFb0huOySZ4x0Qs\n9AOc2aT7UnRO/GBc+sXe2i3CIpCa84iGC7l9iU5IFYdp43ER9aua8SaXJWw7LL4q\n9ntntWPjIwKBgFwZeq7MtkUrowrbq4nRAJw3RDbPr07lSB7V0VlPcJu3zJxXk0hu\n9ESNB01zW6WUnMagWODK8xKZCtuke6+02YisMic7J51i6VrxuLfMf7sPbADz8/e+\nm6VMhtgSkUTpuZu+TZdAnOk1rheXg7K6JWfK1ogV3k5aK+3NMHJiR6CVAoGBAKRe\n6HcG82MaB0y/BDrXoU215QP8ryzQqmpLIDOQ2ySMqcsINHXFeemTmNH6MoDgFpKv\nMVmFTSxKhdvz0s7IB0K7L2vuRAYHupVpMswU4qJR5uwnETmzjK7BgOmCsTN470lw\n+yC1T/QnG9pzSykD5ohemcc3rWGCNgTXiFldyigvAoGBAJ/DyuGvIXewAuu8mgMS\n9va0dvfU5dT0husTZkYEFoJCA2IRlthSMs+8v49ALk47cTk3iLORpmffASyds+Cn\nsNjf4yAOp5T5lhpSnA0aRQ87u9Kbyz/PLtbWPdgqD6JzBUPTMPi/46oCLcpgL44O\ngLL++051zfIvAKpFxTfYHl3X\n-----END PRIVATE KEY-----\n",
+  "client_email": "kentsmbp@maritime-disasters.iam.gserviceaccount.com",
+  "client_id": "109663153042198573642",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kentsmbp%40maritime-disasters.iam.gserviceaccount.com"
+}
